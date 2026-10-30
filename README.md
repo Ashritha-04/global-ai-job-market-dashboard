@@ -1,5 +1,7 @@
 # Global AI Job Market & Salary Analysis
 
+![Power BI Dashboard](dashboard-preview.png)
+
 ## Project Overview
 
 This project analyzes the global AI job market using Microsoft Power BI. It explores job opportunities, salary trends, industry demand, AI specializations, and experience levels across different countries.
