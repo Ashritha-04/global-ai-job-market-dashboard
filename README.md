@@ -1,4 +1,4 @@
-# Global AI Job Market & Salary Analysis
+# Global AI Job Market & Salary Analytics
 
 ![Power BI Dashboard](dashboard-preview.png)
 
